@@ -1,15 +1,11 @@
 # MySite
-using CSS
-# django-website
-Developed by Manish Thirani 
+using CSS.
+
+Developed by Manish Thirani. 
 
 # Output
+![mysite](https://user-images.githubusercontent.com/73772706/137703870-66a2b061-f2f5-430f-aba1-5030855ad6ac.jpg)
 
-
-# Admin
-$ username:- heroisgreat
-
-$ passwoed:- Manish123
 # FollowMe
 Ig:- https://instagram.com/manish_heroisgreat_20
 
