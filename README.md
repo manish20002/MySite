@@ -1,5 +1,5 @@
 # MySite
-using HTML & CSS.
+Using HTML & CSS.
 
 Developed by Manish Thirani. 
 
